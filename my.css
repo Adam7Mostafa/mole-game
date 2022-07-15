@@ -1,0 +1,18 @@
+.father {
+  width: 95%;
+  margin: 0 auto;
+}
+.mydiv {
+  height: 100px;
+  border: 1px solid black;
+  transition: 0.1s linear;
+}
+.mole {
+  background: blue;
+}
+
+.clear{
+  margin: 20px 10%;
+  width: fit-content;
+  padding: 4px 6px;
+}
